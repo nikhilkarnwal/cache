@@ -42,7 +42,7 @@ Usage of the code can be seen in Cache class which is creating a Singleton wrapp
     assertNotEquals(instance.get(key), value);
 
 # Licence 
-check licence file
+check licence https://github.com/nikhilkarnwal/cache/blob/master/LICENSE  file
 
 For any question related to usage or feedback.
 Please write to nikhilkarnwal93@gmail.com
